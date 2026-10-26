@@ -1,0 +1,5 @@
+id,fecha_hora,patente,tipo_vehiculo,dias,entrada,salida,minutos,estacionamiento_base,bonificacion_lavado,costo_lavado,total_cobrado
+MAN-153544,2026-10-24 15:35:44,AD345EE,moto,0,10:00,12:15,135,2300,1600,2500,3200
+MAN-153609,2026-10-24 15:36:09,AD345EE,moto,0,10:00,12:15,135,2300,1600,2500,3200
+MAN-153908,2026-10-24 15:39:08,ABC124,auto,0,08:00,19:00,660,13600,2800,5000,15800
+MAN-233003,2026-10-25 23:30:03,ABC542,moto,1,00:00,00:00,1440,9000,0,2500,11500
